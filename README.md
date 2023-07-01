@@ -14,7 +14,7 @@ Shoot - Space Bar
 
 ## Description
 This browser-based shoot-'em-up was originally programmed in Python using the Pygame library. As my focus has shifted to web development, I've made it playable via browser using WebAssembly.<br>
-[The game can be played on GitHub by clicking this link or the banner,](https://khyleb.github.io/space-meanies/) or via my website by clicking [here.](https://kbest.ca/space-meanies/full-game.html)
+[The game can be played on GitHub by clicking this link or the banner,](https://khyleb.github.io/space-meanies/) or via my website by clicking [here](https://kbest.ca/space-meanies/full-game.html).
 <br><br>
 The original goal of this project was a simple, easy-to-play game that would test my Python knowledge and coding practices. As I've integrated it into an HTML document, it also became an exercize in working with someone else's code, as well as integrating it into my own site.
 
