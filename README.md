@@ -9,7 +9,7 @@
 
 
 ## Controls
-Move  - Left & Right Arrow Keys
+Move  - Left & Right Arrow Keys<br>
 Shoot - Space Bar
 
 ## Description
