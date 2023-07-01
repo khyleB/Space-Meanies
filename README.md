@@ -26,6 +26,6 @@ Although this was a good learning experience, compiling this game for web using 
 - Integrating code into a webpage with its own CSS stylesheet, without errors or unintended visual results
 
 ## Credits
-Original Photo Used for Background:
-Music:
-Sound Effects:
+Original Photo Used for Background:<br>
+Music:<br>
+Sound Effects:<br>
