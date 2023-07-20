@@ -26,6 +26,6 @@ Although this was a good learning experience, compiling this game for web using 
 - Integrating code into a webpage with its own CSS stylesheet, without errors or unintended visual results
 
 ## Credits
-Original Photo Used for Background:<br>[Modified from 'Galaxy' by Andy Holmes](https://unsplash.com/photos/rCbdp8VCYhQ)
-Music:<br>['Lose Your Head' by Eggy Toast](https://freemusicarchive.org/music/eggy-toast/game-music/lose-your-headmp3/)
-Sound Effects:<br>['Digital Sound Effects' by Kenney](https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc)
+Original Photo Used for Background: [Modified from 'Galaxy' by Andy Holmes](https://unsplash.com/photos/rCbdp8VCYhQ)<br>
+Music: ['Lose Your Head' by Eggy Toast](https://freemusicarchive.org/music/eggy-toast/game-music/lose-your-headmp3/)<br>
+Sound Effects: ['Digital Sound Effects' by Kenney](https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc)<br>
