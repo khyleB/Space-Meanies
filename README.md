@@ -23,7 +23,7 @@ Although this was a good learning experience, compiling this game for web using 
 
 ## Lessons Learned 
 - Interacting with complex code written by another programmer
-- Integrating code into a webpage with its own CSS stylesheet, without errors or unintended visual results
+- Integrating code into a webpage with its own CSS stylesheet
 
 ## Credits
 Original Photo Used for Background:<br>[Modified from 'Galaxy' by Andy Holmes](https://unsplash.com/photos/rCbdp8VCYhQ)<br><br>
